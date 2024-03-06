@@ -88,3 +88,6 @@ Visit [http://localhost:5000](http://localhost:5000) in your web browser to acce
 
 ![Screenshot 2024-03-06 171206](https://github.com/Sundarrubesh/NextWay/assets/153824870/3fb68ab7-70f4-4624-a8b9-10fd846795d9)
 
+
+![Screenshot 2024-03-06 171222](https://github.com/Sundarrubesh/NextWay/assets/153824870/585c98d2-4ed5-4111-b339-c208d6558105)
+![Screenshot 2024-03-06 171237](https://github.com/Sundarrubesh/NextWay/assets/153824870/ef8e2437-f281-4627-8a85-b39ac671280f)
