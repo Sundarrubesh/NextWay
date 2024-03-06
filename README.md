@@ -85,3 +85,6 @@ To run NEXTWAY locally on your machine, follow these steps:
 
 Visit [http://localhost:5000](http://localhost:5000) in your web browser to access NEXTWAY locally.
 
+
+![Screenshot 2024-03-06 171206](https://github.com/Sundarrubesh/NextWay/assets/153824870/3fb68ab7-70f4-4624-a8b9-10fd846795d9)
+
