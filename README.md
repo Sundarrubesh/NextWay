@@ -3,7 +3,6 @@
 ## Overview
 
 
-
 Next Way is a comprehensive career guidance system designed to assist 12th standard students in making informed decisions about their future academic and professional paths. The project utilizes a combination of Python, HTML, CSS, JavaScript, Bootstrap, and various Azure services, such as Azure Resource Group, Web App, Virtual Network integration, VNet Monitor, AI Language, and Bot Services.
 
 ## Features
