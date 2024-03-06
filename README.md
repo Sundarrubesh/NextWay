@@ -90,4 +90,85 @@ Visit [http://localhost:5000](http://localhost:5000) in your web browser to acce
 
 
 ![Screenshot 2024-03-06 171222](https://github.com/Sundarrubesh/NextWay/assets/153824870/585c98d2-4ed5-4111-b339-c208d6558105)
+
 ![Screenshot 2024-03-06 171237](https://github.com/Sundarrubesh/NextWay/assets/153824870/ef8e2437-f281-4627-8a85-b39ac671280f)
+
+![Screenshot 2024-03-06 171315](https://github.com/Sundarrubesh/NextWay/assets/153824870/5e251a64-830a-44c0-a19e-302805cda8e0)
+
+![Screenshot 2024-03-06 171416](https://github.com/Sundarrubesh/NextWay/assets/153824870/d0806628-c2cb-41ca-9602-56f71daf24e9)
+
+![Screenshot 2024-03-06 171451](https://github.com/Sundarrubesh/NextWay/assets/153824870/279d6507-476f-4ef1-b9ec-f28e3e0bb363)
+
+![Screenshot 2024-03-06 171429](https://github.com/Sundarrubesh/NextWay/assets/153824870/e112b13b-2693-4a6c-8e51-de619f63d7c9)
+
+![Screenshot 2024-03-06 171503](https://github.com/Sundarrubesh/NextWay/assets/153824870/9949aa14-9ded-4269-8d11-1f03564b6576)
+
+
+![Screenshot 2024-03-06 171440](https://github.com/Sundarrubesh/NextWay/assets/153824870/a108ec9f-eeca-4f9c-a7c5-c52e1c5ebc99)
+
+
+![Screenshot 2024-03-06 171521](https://github.com/Sundarrubesh/NextWay/assets/153824870/4aae3266-66b2-47f4-8586-e8449b22366e)
+
+![Screenshot 2024-03-06 171534](https://github.com/Sundarrubesh/NextWay/assets/153824870/e6557c09-1b4c-4335-9714-a06082501b8d)
+
+![Screenshot 2024-03-06 171818](https://github.com/Sundarrubesh/NextWay/assets/153824870/eb08705d-2aef-4d3e-a3e9-60c58f219b7c)
+
+![Screenshot 2024-03-06 171807](https://github.com/Sundarrubesh/NextWay/assets/153824870/b14761cd-7d14-4d69-91ec-6c1115942a31)
+
+![Screenshot 2024-03-06 171730](https://github.com/Sundarrubesh/NextWay/assets/153824870/3d3948be-6449-4e16-b568-8c491a24c02d)
+
+![Screenshot 2024-03-06 171845](https://github.com/Sundarrubesh/NextWay/assets/153824870/ace92299-cf05-4d0d-8081-83989d6c4595)
+
+![Screenshot 2024-03-06 171838](https://github.com/Sundarrubesh/NextWay/assets/153824870/5d150f4f-3d11-42e1-bac4-b4f27980326e)
+
+![Screenshot 2024-03-06 171827](https://github.com/Sundarrubesh/NextWay/assets/153824870/de751622-c703-45a9-9943-937a0efccade)
+
+![Screenshot 2024-03-06 172329](https://github.com/Sundarrubesh/NextWay/assets/153824870/76c55ab0-b792-4fc0-8882-6ea186382a23)
+
+![Screenshot 2024-03-06 172318](https://github.com/Sundarrubesh/NextWay/assets/153824870/60ca0612-be50-4e3f-983a-6882956ee635)
+
+![Screenshot 2024-03-06 172258](https://github.com/Sundarrubesh/NextWay/assets/153824870/11161f5d-a1ef-4677-a51b-fcd7af4fecef)
+
+![Screenshot 2024-03-06 172235](https://github.com/Sundarrubesh/NextWay/assets/153824870/ed3864c5-9f2b-4d4e-9bcf-0b4ac28df8df)
+
+![Screenshot 2024-03-06 172223](https://github.com/Sundarrubesh/NextWay/assets/153824870/a9ced0b2-2d5a-428e-84d4-3e8f948857ad)
+
+![Screenshot 2024-03-06 172207](https://github.com/Sundarrubesh/NextWay/assets/153824870/ab260afc-cff3-491a-9619-3b540434efa4)
+
+![Screenshot 2024-03-06 172149](https://github.com/Sundarrubesh/NextWay/assets/153824870/738ec867-f722-4172-83ac-9f3acf65783b)
+
+![Screenshot 2024-03-06 172137](https://github.com/Sundarrubesh/NextWay/assets/153824870/2dcd49fa-40f8-48bb-853d-e15d8a1b0455)
+
+![Screenshot 2024-03-06 172126](https://github.com/Sundarrubesh/NextWay/assets/153824870/a1f5a8cd-a805-494f-9789-6f4ac78f01f1)
+
+![Screenshot 2024-03-06 172115](https://github.com/Sundarrubesh/NextWay/assets/153824870/64d775a5-31c6-4206-8557-d87152957f03)
+
+![Screenshot 2024-03-06 172103](https://github.com/Sundarrubesh/NextWay/assets/153824870/dad81b6a-0c67-48e7-a533-c7f2d1621805)
+
+![Screenshot 2024-03-06 172052](https://github.com/Sundarrubesh/NextWay/assets/153824870/a6d44fe9-c529-4c68-880c-a99e389929f9)
+
+![Screenshot 2024-03-06 172041](https://github.com/Sundarrubesh/NextWay/assets/153824870/988b8b76-d810-4ac9-bb90-8b06cd0bf2a9)
+
+![Screenshot 2024-03-06 172011](https://github.com/Sundarrubesh/NextWay/assets/153824870/99235744-b061-4ba0-b5bb-b97f677cb522)
+
+![Screenshot 2024-03-06 171924](https://github.com/Sundarrubesh/NextWay/assets/153824870/86050982-9b96-4621-b500-a4b3a46407c1)
+
+![Screenshot 2024-03-06 171907](https://github.com/Sundarrubesh/NextWay/assets/153824870/4ab05472-d863-4cad-878e-a655cca863fb)
+
+![Screenshot 2024-03-06 171858](https://github.com/Sundarrubesh/NextWay/assets/153824870/ba9e96c0-86eb-4de8-93df-c493a030c21b)
+
+![Screenshot 2024-03-06 172341](https://github.com/Sundarrubesh/NextWay/assets/153824870/94c925d5-1f63-47f4-9b87-ca7adfdb98ad)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
