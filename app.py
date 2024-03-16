@@ -171,7 +171,9 @@ def college23():
 def college24():
     return render_template("college24.html")
 
-
+@app.route('/college25')
+def college25():
+    return render_template("college25.html")
 
 @app.route('/contact')
 def contact():
