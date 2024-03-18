@@ -3,13 +3,20 @@
 ## Overview
 
 
+
+
 Next Way is a comprehensive career guidance system designed to assist 12th standard students in making informed decisions about their future academic and professional paths. The project utilizes a combination of Python, HTML, CSS, JavaScript, Bootstrap, and various Azure services, such as Azure Resource Group, Web App, Virtual Network integration, VNet Monitor, AI Language, and Bot Services.
+
+
 
 ## contribution
 ## 1. sunderrubesh@gmail.com  ---- front end and Cloud service integrations
 ## 2. 2003g.karthick@gmail.com  --- back end and readme file, voice over
 
+
+
 ## Features
+
 
 - **User-Friendly Interface:** Intuitive and user-friendly interface for seamless user experience.
   
@@ -113,6 +120,7 @@ Visit [http://localhost:5000](http://localhost:5000) in your web browser to acce
 ![Screenshot 2024-03-06 171521](https://github.com/Sundarrubesh/NextWay/assets/153824870/4aae3266-66b2-47f4-8586-e8449b22366e)
 
 ![Screenshot 2024-03-06 171534](https://github.com/Sundarrubesh/NextWay/assets/153824870/e6557c09-1b4c-4335-9714-a06082501b8d)
+
 
 ![Screenshot 2024-03-06 171818](https://github.com/Sundarrubesh/NextWay/assets/153824870/eb08705d-2aef-4d3e-a3e9-60c58f219b7c)
 
